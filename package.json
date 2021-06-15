@@ -1,6 +1,6 @@
 {
   "name": "react-nextflix-clone",
-      "homepage": "http://asudbury.github.io/react-netflix-clone",
+  "homepage": "http://asudbury.github.io/react-netflix-clone",
   "version": "0.1.0",
   "private": false,
   "dependencies": {

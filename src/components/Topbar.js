@@ -63,6 +63,7 @@ function Topbar() {
             <div className="topbar__face topbar__face-mouth"></div>
           </div>
         </li>
+        <li>Adrian Sudbury</li>
       </ul>
     </nav>
   );

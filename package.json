@@ -35,6 +35,6 @@
     ]
   },
   "devDependencies": {
-    "react-query": "^2.23.0"
+    "react-query": "^3.39.3"
   }
 }
